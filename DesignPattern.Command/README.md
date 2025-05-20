@@ -1,6 +1,6 @@
 # Command Design Pattern
 
-This project demonstrates the **Command Design Pattern** in C#. The pattern is used to encapsulate requests as objects, allowing you to parameterize clients with different requests, queue or log requests, and support undoable operations.
+This project demonstrates the **Command Design Pattern** in C#. The pattern is used to encapsulate requests as objects, allowing you to parameterize clients with different requests, queue.
 
 ## Structure
 
