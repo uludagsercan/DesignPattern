@@ -1,0 +1,15 @@
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/bin/Debug/net8.0/DesignPattern.Strategy
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/bin/Debug/net8.0/DesignPattern.Strategy.deps.json
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/bin/Debug/net8.0/DesignPattern.Strategy.runtimeconfig.json
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/bin/Debug/net8.0/DesignPattern.Strategy.dll
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/bin/Debug/net8.0/DesignPattern.Strategy.pdb
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/DesignPattern.Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/DesignPattern.Strategy.AssemblyInfoInputs.cache
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/DesignPattern.Strategy.AssemblyInfo.cs
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/DesignPattern.Strategy.csproj.CoreCompileInputs.cache
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/DesignPattern.Strategy.sourcelink.json
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/DesignPattern.Strategy.dll
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/refint/DesignPattern.Strategy.dll
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/DesignPattern.Strategy.pdb
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/DesignPattern.Strategy.genruntimeconfig.cache
+/Users/sercanuludag/Desktop/Projects/DesignPattern/DesignPattern.Strategy/obj/Debug/net8.0/ref/DesignPattern.Strategy.dll
