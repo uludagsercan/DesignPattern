@@ -21,7 +21,6 @@ await invoker.ExecuteFile();
 
 ## Benefits
 
-- Decouples the object that invokes the operation from the one that knows how to perform it.
 - Makes it easy to add new commands without changing existing code.
 - Supports extensibility and maintainability.
 
